@@ -146,4 +146,4 @@ tags
 # Persistent undo
 [._]*.un~
 
-*.ini
+.ini
